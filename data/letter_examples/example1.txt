@@ -1,0 +1,15 @@
+Dear Hiring Team at Preply,
+
+I am deeply interested in the Senior Data Scientist position at Preply. Armed with extensive experience in data analysis and a deep understanding of product analytics, I bring a rich breadth of skills and knowledge that are particularly well-aligned with your requirements. I am also very personally interested in advancing technology and resources for language learning, which fit with your mission at Preply.
+
+During my tenure at Klarity Health, I embarked on the challenging task of creating our end-to-end data pipeline, drawing user insight from a medley of sources using Snowflake, Airbyte, and bespoke pipelines. I derived pivotal metrics and established robust tracking systems, leading to substantial advancements in user experience and product functionality at Shippo. Moreover, my tenure at Bookbub saw me play an instrumental role in the successful launch of an audiobook ecommerce platform through robust analytics and tracking infrastructure.
+
+In line with Preply’s requirements, I have a good understanding of key data analysis concepts like conversion, LTV, and retention. My proficiency in SQL and Python and my curiosity-driven approach to unraveling data mysteries will provide Preply with valuable insights to explore new growth opportunities and expand globally.
+
+Being an adept communicator, I can effectively distill complicated data analysis results to audiences with varying levels of technical understanding. Moreover, my previous experience using A/B testing frameworks and BI tools like Looker, Heap, Fullstory, and others aligns with your nice-to-have skills.
+
+I am enthused by the prospect of joining Preply’s diverse and high-performing team, contributing to a more data-driven approach in decision-making, and playing a part in shaping the lives of learners and tutors worldwide. I look forward to discussing how my skills and experience can support Preply's mission further.
+
+Sincerely,
+
+Aditya Joshi

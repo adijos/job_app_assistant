@@ -1,0 +1,16 @@
+# Senior Product Analyst
+
+Dear Hiring Team at Slice,
+
+I am thrilled to express my interest in the Senior Product Analyst role. With over seven years of experience in product and data analytics, I think my skillset and experiences well align with this role’s needs at Slice.
+
+Throughout my career, I have used tools such as SQL and Python to handle complex datasets and generate useful insights. Most recently, at Klarity Health, I implemented our end-to-end data pipeline, collecting user data from various sources using Snowflake, Airbyte, and some custom pipelines. Furthermore, I was instrumental in constructing all our analytic dashboards to calculate and show company performance using newly developed key metrics, like our marketplace supply and demand metric, our self-booking metric, and many others.
+
+Prior to that, while at Shippo, my role included developing important product metrics, setting up in-product tracking procedures, and conducting multiple ad-hoc analyses that significantly improved both user onboarding experience and web-app functionality.
+
+A significant part of my skill set includes proficiency in data visualization tools like Looker and Google Data Studio, which I have used numerous times to present comprehensible findings to both technical and non-technical stakeholders. In all my roles, I have consistently promoted best practices, guiding the organization toward a more data-oriented approach to product development.
+
+The opportunity to contribute to your mission of Slice using data-driven insights greatly excites me. I believe my rich career history, hands-on experience with analysis tools, and my ability to convert data into action make me a valuable candidate for the role. I hope we can discuss how my skills align with the Senior Product Analyst position soon.
+
+Sincerely,
+Aditya Joshi

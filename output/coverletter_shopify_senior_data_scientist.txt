@@ -1,0 +1,28 @@
+Dear Hiring Team at Shopify,
+
+I am writing with immense interest in the Senior Product Data Scientist role at Shopify. With my extensive experience in product analytics and a passion for empowering entrepreneurs, I believe my skills and experiences align well with your job requirements.
+
+During my tenures at Klarity Health and Shippo, I was integral in constructing end-to-end data pipelines, generating key metrics, and creating analytical dashboards. My advanced SQL, Python, and OOP skills were put to test, resulting in significant enhancements in product functionality and user experience. 
+
+As a proactive individual, I have constantly identified and championed projects that solve complex problems in vital business areas. I have excelled in partnering with product, engineering, and other business leaders, influencing crucial decisions based on data insights. Furthermore, my experience in data storytelling and strategic thinking have cultivated a strong data culture within my teams.
+
+I am intrigued by Shopify's dedication to global entrepreneurship and I am thrilled at the prospect of contributing to such impactful work. The additional challenge of developing data products and strategies while thriving in a rapid, dynamic environment excites me.
+
+I am looking forward to an opportunity to discuss how my capabilities and experiences can contribute to making commerce better for everyone at Shopify.
+
+Sincerely,
+Aditya Joshi
+Dear Hiring Team at Shopify,
+
+I am extremely interested in the Senior Product Data Scientist role at your esteemed organization. Equipped with significant experience in product analytics and a profound understanding of data science methods, I believe my skills and knowledge align seamlessly with your job requirements.
+
+In my stint at Klarity Health, I was given the responsibility of creating an end-to-end data pipeline, harnessing user information from diverse sources utilizing tools like Snowflake and Airbyte. The deployment of these strategies led to substantial advancements in user experience and product functionality. My contributions at Bookbub involved the successful launch of an ecommerce platform, achieved mainly through robust analytics and infrastructure.
+
+Shopify's need for a comprehensive understanding of data analysis concepts like A/B testing, deep dives, segmentation, and SQL aligns perfectly with my expertise. My proficiency in Python and my innate curiosity to delve into data mysteries will equip Shopify with actionable insights to explore new areas of growth.
+
+As an adept communicator, I am capable of simplifying complex data analysis results to a diverse audience. I am also familiar with various Business Intelligence platforms and tools, which I believe would be beneficial in this role.
+
+The prospect of joining Shopify's diverse and performance-driven team excites me. I look forward to contributing to your data-driven approach and playing a pivotal role in influencing global entrepreneurship. I am thrilled to discuss how my competencies can further support Shopify’s mission.
+
+Sincerely,
+Aditya Joshi

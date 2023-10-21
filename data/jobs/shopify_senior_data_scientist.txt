@@ -1,0 +1,71 @@
+Senior Product Data Scientist (Multiple Roles)
+Employees can work remotely
+Full-time
+Region: Americas
+Department: Data Science and Engineering
+Company Description
+About Shopify
+
+Opportunity is not evenly distributed. Shopify puts independence within reach for anyone with a dream to start a business. Since 2006, we’ve grown to over 10,000 employees and generated over $500 billion in sales for millions of merchants in 175 countries. Every 28 seconds, an entrepreneur on Shopify makes their first sale.
+
+This is life-defining work that directly impacts people’s lives as much as it transforms your own. This is putting the power of the few in the hands of the many, is a future with more voices rather than fewer, and is creating more choices instead of an elite option.
+
+About you
+
+Moving at our pace brings a lot of change, complexity, and ambiguity—and a little bit of chaos. Shopifolk thrive on that and are comfortable being uncomfortable. That means Shopify is not the right place for everyone.
+
+Before you apply, consider if you can:
+
+Care deeply about what you do and about making commerce better for everyone
+Excel by seeking professional and personal hypergrowth
+Keep up with an unrelenting pace (the week, not the quarter)
+Be resilient and resourceful in face of ambiguity and thrive on (rather than endure) change
+Bring critical thought and opinion — and embrace differences and disagreement to get shit done and move forward
+Work digital-first for your daily work
+Job Description
+About the role
+
+As a Product Analytics professional, you'll be tasked with transforming raw data into actionable insights that will help guide the development and improvement of our products. This role isn't for the faint-hearted or those seeking a conventional corporate structure - we operate on the principles of low process, high trust, and high impact. It's all about getting things done quickly and efficiently, while continuously learning and adapting to changes in a dynamic environment.
+
+Our product is designed to empower entrepreneurs. Consequently, the work you do will not only create value for our users but also contribute to global entrepreneurship. To thrive here, you need to be dedicated to your craft and committed to constant development. You should be an independent thinker who can solve complex problems and handle a bit of chaos without breaking a sweat.
+
+As a Senior Data Scientist, you will partner with Product, Engineering, UX, and other disciplines to lead through data and achieve product/business goals. Product Data Scientists are expected to:
+
+Proactively identify and champion projects that solve complex problems in important business areas.
+Partner closely with product, engineering and other business leaders to influence product and program decisions with data
+Holistically own general problems in those product/business domains and understand how those problems/domains interact with the rest of Shopify.
+Build actionable KPIs, production-quality dashboards, informative deep dives, and scalable data products
+Apply specialized skills and fundamental data science methods (e.g. regression, survival analysis, segmentation, experimentation, and machine learning when appropriate) to inform improvements to our business
+Design and implement end-to-end data pipelines: work closely with stakeholders, especially data engineering, to build instrumentation and define dimensional models, tables or schemas  that support business processes
+Influence leadership to drive more data-informed decisions
+Define and advance best practices within your data science and product teams
+There are several teams looking for Product Data Scientists to partner with and help drive value for our merchants. These include:
+
+Core Ecosystem, International, and Marketing
+
+Merchants use Shopify in a variety of ways, using a wide array of first-party features and augmenting them with third-party apps. These all come together to help merchant’s meet their diverse needs. A shoe brand in Canada, a small jeweler in Japan, and a Fortune 500 company in Germany all need different tools so succeed! This Data Science team is focused on helping merchants make the most use of these different features and apps all over the world.
+
+Checkout & Storefront
+
+The Core Product Data Science team combines leading-edge analytical techniques with strong business & product acumen in order to drive better decisions and outcomes for Shopify’s merchants. Data Scientists turn data into actionable insights through a number of analytical methods, such as A/B tests, In-depth studies, advanced modeling, data visualizations, etc. to shape and support our product development strategies.
+
+Executive Insights
+
+The Executive Insights team supports Shopify leadership in setting the direction of the company, sharing our message of entrepreneurship to the world, and investing in building the best products for our merchants. We do this by combining a deep understanding of the entrepreneurs that use our products, our position in the marketplace and the challenges our merchants face.
+
+Qualifications
+Extensive experience in product analytics, experimentation, metrics research, and working with engineers on instrumentation and robust data pipelining
+Extensive experience in a data science role solving large-scale, high impact business problems
+Masterful data storytelling and strategic thinking, with an ability to inspire and cultivate the Data culture within your team
+Extensive experience using Python including a strong grasp of object oriented programming (OOP) fundamentals
+Deep understanding of advanced SQL techniques and data modeling
+Well versed with various Business Intelligence platforms and tools
+Experience working with various levels of business stakeholders, from c-suite to engineering and product development teams.
+Working on multiple work streams excites you, and you are able to use ambiguity as an opportunity for high-level thinking
+Experience creating data product strategies, building data products, and continued iteration after launch
+Experience launching productionized machine learning models at scale is a plus
+Extensive domain experience in e-commerce, sales & marketing or SaaS is a plus
+Additional Information
+We hire people, not resumes. If you think you’re right for the role, apply now. Please submit your CV/Resume in PDF format.
+
+
